@@ -6,8 +6,8 @@ subtitle: PhD in Applied Mathematics · <a href='https://www.birmingham.ac.uk/sc
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: website_photo.jpg
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>School of Mathematics</p>
     <p>University of Birmingham</p>
