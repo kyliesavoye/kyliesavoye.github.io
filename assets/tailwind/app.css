@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+.contact-icons a {
+  font-size: 1.1rem !important;
+}
