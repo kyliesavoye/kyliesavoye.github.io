@@ -8,7 +8,7 @@ subtitle: >
 
 profile:
   align: right
-  image: wbsite_photo.jpg
+  image: website_photo.jpg
   image_circular: true
   more_info: >
     <p>School of Mathematics & School of Physics and Astronomy</p>
