@@ -1,12 +1,12 @@
 ---
 layout: cv
 permalink: /cv/
-title: CV
+title: cv
 nav: true
 nav_order: 5
-cv_pdf: /assets/pdf/example_pdf.pdf # you can also use external links here
-cv_format: rendercv # options: rendercv, jsonresume
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+cv_pdf: /assets/pdf/Kylie_Savoye_CV.pdf
+description: PhD student in Applied Mathematics at the University of Birmingham, developing topological data analysis tools for spatial transcriptomics and disease prediction.
 toc:
   sidebar: left
 ---
+
