@@ -1,113 +1,113 @@
 cv:
   - title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Kylie Savoye
-    - name: Position
-      value: PhD Student in Applied Mathematics
-    - name: Institution
-      value: University of Birmingham
-    - name: Email
-      value: kms306@student.bham.ac.uk
-  
-  - title: Education
-    type: time_table
+    type: map
     contents:
-      - title: PhD in Applied Mathematics
-        institution: University of Birmingham, Birmingham, UK
-        year: 2023–present
-        description:
-          - Mathematics and Data Analysis for Spatial Transcriptomics
-          - EPSRC & AstraZeneca Scholarship
-          - Developing topological data analysis tools for disease and treatment prediction
-  
-      - title: MSc Mathematical Modelling and Scientific Computing
-        institution: St Hugh's College, University of Oxford, Oxford, UK
-        year: 2022–2023
-        description:
-          - "Dissertation: Characterising the solution space of vascular blood flow"
-  
-      - title: BSc Astrophysics (Honours)
-        institution: University College London, London, UK
-        year: 2019–2022
-        description:
-          - "Bachelor's Research Group project: Ice, Ice Maybe — a photometric investigation of active processes on the moons of Uranus"
-  
-  - title: Experience
-    type: time_table
-    contents:
-      - title: Post-Graduate Teaching Assistant
-        institution: University of Birmingham, Birmingham, UK
-        year: 2023–present
-        description:
-          - "Mathematical Workshops (MATLAB)"
-          - "Numerical Programming (MATLAB and Python)"
-          - "Applied Mathematical Analysis (Dynamical Systems and Asymptotic Methods)"
-  
-      - title: Summer Research Intern — Planetary Systems
-        institution: University College London, London, UK
-        year: June–Sept. 2022
-        description:
-          - Awarded funding by research group
-          - Built a Python computational model to track planet growth and formation using Markov Chain Monte Carlo algorithms
-  
-      - title: Summer Research Intern — Galaxy and Quasar Physics, DESI Survey
-        institution: University College London, London, UK
-        year: June–Aug. 2021
-        description:
-          - Awarded Brian Duff Studentship
-          - Built a Python spectral stacking tool to enable galaxy evolution work within the DESI survey
-  
-  - title: Selected Conferences
-    type: time_table
-    contents:
-      - title: European Conference on Mathematical & Theoretical Biology
-        institution: University of Graz, Austria
-        year: July 2026
-        description:
-          - "Mini Symposium Talk: Quantifying Tissue Architecture in the Tumour Microenvironment with Multi-Parameter Persistent Homology"
-  
-      - title: Foundations of Computational Geometry and Topology
-        institution: Brown University, USA
-        year: May 2026
-        description:
-          - "Poster: Multiparameter Persistent Homology for Spatial Transcriptomics"
-  
-      - title: British Early Career Mathematician's Colloquium
-        institution: University of Birmingham, UK
-        year: July 2025
-        description:
-          - Organising Committee
-  
-      - title: British Applied Mathematics Colloquium
-        institution: University of Exeter, UK
-        year: June 2025
-        description:
-          - "Poster: Persistent Homology in Spatial Transcriptomics"
-  
-      - title: International Spatial Biology Congress
-        institution: The Hague, Netherlands
-        year: July 2024
-        description:
-          - "Poster: Measuring the Similarity of SMLM-Derived Marked Point-Clouds"
-  
-      - title: European Light Microscopy Initiative
-        institution: Liverpool, UK
-        year: June 2024
-        description:
-          - "Poster and Early Career Researcher Flash Talk: Measuring the Similarity of SMLM-Derived Marked Point-Clouds"
-  
-  - title: Skills
-    type: list
-    contents:
-      - "<b>Programming:</b> Python (proficient), MATLAB (advanced)"
-      - "<b>Mathematical:</b> Spatial statistics, topological data analysis, geometry-based modelling, probability and statistics"
-      - "<b>Computational:</b> High-performance and large-data workflows"
-  
-  - title: Outreach & Activities
-    type: list
-    contents:
-      - "Member of CDT in Topological Design Outreach team (2025–present)"
-      - "Member of Piscopia Committee (2024–present), encouraging women and underrepresented genders in mathematics to pursue a PhD"
-      - "Birmingham University W1 Fencing Captain (2023–2025): BUCS National Trophy Champions (2025)"
+      - name: Full Name
+        value: Kylie Savoye
+      - name: Position
+        value: PhD Student in Applied Mathematics
+      - name: Institution
+        value: University of Birmingham
+      - name: Email
+        value: kms306@student.bham.ac.uk
+    
+    - title: Education
+      type: time_table
+      contents:
+        - title: PhD in Applied Mathematics
+          institution: University of Birmingham, Birmingham, UK
+          year: 2023–present
+          description:
+            - Mathematics and Data Analysis for Spatial Transcriptomics
+            - EPSRC & AstraZeneca Scholarship
+            - Developing topological data analysis tools for disease and treatment prediction
+    
+        - title: MSc Mathematical Modelling and Scientific Computing
+          institution: St Hugh's College, University of Oxford, Oxford, UK
+          year: 2022–2023
+          description:
+            - "Dissertation: Characterising the solution space of vascular blood flow"
+    
+        - title: BSc Astrophysics (Honours)
+          institution: University College London, London, UK
+          year: 2019–2022
+          description:
+            - "Bachelor's Research Group project: Ice, Ice Maybe — a photometric investigation of active processes on the moons of Uranus"
+    
+    - title: Experience
+      type: time_table
+      contents:
+        - title: Post-Graduate Teaching Assistant
+          institution: University of Birmingham, Birmingham, UK
+          year: 2023–present
+          description:
+            - "Mathematical Workshops (MATLAB)"
+            - "Numerical Programming (MATLAB and Python)"
+            - "Applied Mathematical Analysis (Dynamical Systems and Asymptotic Methods)"
+    
+        - title: Summer Research Intern — Planetary Systems
+          institution: University College London, London, UK
+          year: June–Sept. 2022
+          description:
+            - Awarded funding by research group
+            - Built a Python computational model to track planet growth and formation using Markov Chain Monte Carlo algorithms
+    
+        - title: Summer Research Intern — Galaxy and Quasar Physics, DESI Survey
+          institution: University College London, London, UK
+          year: June–Aug. 2021
+          description:
+            - Awarded Brian Duff Studentship
+            - Built a Python spectral stacking tool to enable galaxy evolution work within the DESI survey
+    
+    - title: Selected Conferences
+      type: time_table
+      contents:
+        - title: European Conference on Mathematical & Theoretical Biology
+          institution: University of Graz, Austria
+          year: July 2026
+          description:
+            - "Mini Symposium Talk: Quantifying Tissue Architecture in the Tumour Microenvironment with Multi-Parameter Persistent Homology"
+    
+        - title: Foundations of Computational Geometry and Topology
+          institution: Brown University, USA
+          year: May 2026
+          description:
+            - "Poster: Multiparameter Persistent Homology for Spatial Transcriptomics"
+    
+        - title: British Early Career Mathematician's Colloquium
+          institution: University of Birmingham, UK
+          year: July 2025
+          description:
+            - Organising Committee
+    
+        - title: British Applied Mathematics Colloquium
+          institution: University of Exeter, UK
+          year: June 2025
+          description:
+            - "Poster: Persistent Homology in Spatial Transcriptomics"
+    
+        - title: International Spatial Biology Congress
+          institution: The Hague, Netherlands
+          year: July 2024
+          description:
+            - "Poster: Measuring the Similarity of SMLM-Derived Marked Point-Clouds"
+    
+        - title: European Light Microscopy Initiative
+          institution: Liverpool, UK
+          year: June 2024
+          description:
+            - "Poster and Early Career Researcher Flash Talk: Measuring the Similarity of SMLM-Derived Marked Point-Clouds"
+    
+    - title: Skills
+      type: list
+      contents:
+        - "<b>Programming:</b> Python (proficient), MATLAB (advanced)"
+        - "<b>Mathematical:</b> Spatial statistics, topological data analysis, geometry-based modelling, probability and statistics"
+        - "<b>Computational:</b> High-performance and large-data workflows"
+    
+    - title: Outreach & Activities
+      type: list
+      contents:
+        - "Member of CDT in Topological Design Outreach team (2025–present)"
+        - "Member of Piscopia Committee (2024–present), encouraging women and underrepresented genders in mathematics to pursue a PhD"
+        - "Birmingham University W1 Fencing Captain (2023–2025): BUCS National Trophy Champions (2025)"
